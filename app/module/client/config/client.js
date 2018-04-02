@@ -4,7 +4,7 @@ module.exports = function() {
 	return ([
 		{
 			method: ['get'],
-			path: '/client',
+			path: '/',
 			priority: 3,
 			action: {
 				controller: 'client',

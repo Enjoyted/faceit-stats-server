@@ -11,7 +11,7 @@ module.exports = function() {
 		],
 		cdn: [
 			{
-				path: '/client/',
+				path: '/',
 				priority: 2,
 				source: 'public'
 			}
