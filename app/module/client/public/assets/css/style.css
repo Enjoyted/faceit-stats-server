@@ -1,0 +1,75 @@
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/fontawesome-webfont.ttf');
+}
+
+body {
+	background-color: #1E2222;
+}
+
+.center {
+	text-align: center;
+}
+
+.container {
+	display: block;
+}
+
+.topbar {
+	background-color: #191919; 
+	border-color: #FF5500;
+}
+
+.nodata {
+	font-size: 20px;
+	font-style: italic;
+	color: #fff;
+}
+
+.btn-values {
+	padding:6px 0 6px 0;
+	font:Bold 13px Arial;
+	color:#fff;
+	width:50px;
+	border-radius:0px;
+	border:none;
+}
+
+.percentage-sup {
+	background-color: #4bbf73;
+}
+
+.percentage-inf {
+	background-color: #d9534f;
+}
+
+#footer {
+	display: block;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	border-top: 2px solid #FF5500;
+	margin: 0 auto;
+	width: 100%;
+	background-color: #191919;
+	color: #fff;
+	font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+#footer #inner-footer {
+	margin: 0 auto;
+	width: 10%;
+}
+
+#footer a {
+	display: inline-block;
+}
+
+#footer .foot-img {
+	text-align: center;
+}
+
+#footer img {
+	text-align: center;
+	width: 120px;
+}

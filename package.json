@@ -1,0 +1,13 @@
+{
+  "name": "faceit",
+  "version": "1.0.0",
+  "description": "Enter your faceit nickname (respect the case!) and see how you match with the people you play the most :) Optimise your chances and play with your best teammates ;)",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js --port 580 --unwrap"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

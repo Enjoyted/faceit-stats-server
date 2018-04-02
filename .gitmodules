@@ -1,0 +1,3 @@
+[submodule "Singularity"]
+	path = Singularity
+	url = https://github.com/Product-Live/Singularity.git
